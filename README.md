@@ -1,2 +1,2 @@
 # makef
-android
+and
